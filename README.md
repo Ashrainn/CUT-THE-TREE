@@ -1,3 +1,16 @@
-Cut The Tree is a simple game built in Construct 3 for a school event. 
 
-Version: 1.0.0.0v
+# CUT THE TREE
+
+## Visão Geral
+Cut The Tree é um jogo simples feito na Construct 3 para um evento escolar.
+
+## Objetivos
+Corte o maximo de árvores em 1 minuto
+
+## Controles
+PC = Use a barra de espaço
+
+# Jogue Aqui
+https://ashrainn.github.io/CUT-THE-TREE/
+
+Versão: 1.0.0.0
