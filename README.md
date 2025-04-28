@@ -13,4 +13,4 @@ PC = Use a barra de espaço
 # Jogue Aqui
 https://ashrainn.github.io/CUT-THE-TREE/
 
-Versão: 1.0.0.0
+Versão: 1.0.0.1
