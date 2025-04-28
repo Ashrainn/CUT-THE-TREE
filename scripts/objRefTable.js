@@ -74,6 +74,7 @@ self.C3_JsPropNameTable = [
 	{degrade: 0},
 	{creditps: 0},
 	{creditps2: 0},
+	{Creditos_fundo: 0},
 	{VidaArvore: 0},
 	{ArvoresCortadas: 0},
 	{Cronometro: 0},
@@ -115,5 +116,6 @@ self.InstanceType = {
 	Jogo_final_nao: class extends self.ITextInstance {},
 	degrade: class extends self.ISpriteInstance {},
 	creditps: class extends self.ISpriteInstance {},
-	creditps2: class extends self.ISpriteInstance {}
+	creditps2: class extends self.ISpriteInstance {},
+	Creditos_fundo: class extends self.ISpriteInstance {}
 }
