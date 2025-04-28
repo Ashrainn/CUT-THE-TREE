@@ -1,4 +1,3 @@
-
 # CUT THE TREE
 
 ## Visão Geral
